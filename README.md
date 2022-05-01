@@ -9,7 +9,7 @@
 <body>
     <h1>Википедия</h1>
     <h2>Youtube Курсы</h2>
-    <a href="index[1].html">Посмотреть список</a>
+    <a href="код.html">Посмотреть список</a>
 
 </body>
 </html>
